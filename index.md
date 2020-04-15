@@ -1,8 +1,8 @@
-<!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="Refresh" content="7; url=http://ogurl.co/dF0T" />
+    <meta http-equiv="Refresh" content="7; url=//www.w3docs.com" />
   </head>
   <body>
+    <p>Please follow <a href="//www.w3docs.com/">this link</a>.</p>
   </body>
 </html>
